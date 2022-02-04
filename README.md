@@ -1,15 +1,16 @@
 # Mono Repo Template
 
+## Structure
+
 - Bazel
 - gRPC + protobuf
 - java microservices
 - NextJS + React frontend apps
 - monogodb (container) for local testing
 
-![Alt text](/monorepo-diagram.png "Stack Flow")
+![Stack Flow](/assets/monorepo-diagram.png)
 
+## Start at
 
-Start @ :
 - spec_local, should have container image target references
-- proto, should define microservices 
-
+- proto, should define microservices

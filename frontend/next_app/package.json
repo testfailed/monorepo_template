@@ -1,7 +1,7 @@
 {
   "name": "next_app",
   "version": "1.0.0",
-  "description": "NextJs frontend app ",
+  "description": "NextJs frontend app",
   "private": true,
   "scripts": {
     "dev": "next dev",
